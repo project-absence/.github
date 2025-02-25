@@ -1,6 +1,7 @@
 <div align="center">
 
-![Project Absence Banner](/assets/banner.png)
+<img alt="Project Absence Logo" height="20%" width="20%" src="/assets/logo.png" />
+![Project Absence Logo](/assets/logo.png)
 
 # Project Absence
 
@@ -12,10 +13,10 @@
 Project Absence is a tool for analyzing your domains. Its features include finding open ports, discovering subdomains, discovering files and more will be coming with the time.
 
 <div>
-    <img width="48px" height="48px" src="/assets/linux.svg" />
-    <img width="48px" height="48px" src="/assets/apple.svg" />
-    <img width="48px" height="48px" src="/assets/windows.svg" />
-    <img width="48px" height="48px" src="/assets/docker.svg" />
+    <img alt="Linux" width="48px" height="48px" src="/assets/linux.svg" />
+    <img alt="macOS" width="48px" height="48px" src="/assets/apple.svg" />
+    <img alt="Windows" width="48px" height="48px" src="/assets/windows.svg" />
+    <img alt="Docker" width="48px" height="48px" src="/assets/docker.svg" />
 </div>
 
 </div>
