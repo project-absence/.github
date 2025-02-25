@@ -11,4 +11,11 @@
 
 Project Absence is a tool for analyzing your domains. Its features include finding open ports, discovering subdomains, discovering files and more will be coming with the time.
 
+<div>
+    <img src="/assets/linux.svg" />
+    <img src="/assets/apple.svg" />
+    <img src="/assets/windows.svg" />
+    <img src="/assets/docker.svg" />
+</div>
+
 </div>
