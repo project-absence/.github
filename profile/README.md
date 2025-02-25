@@ -1,7 +1,6 @@
 <div align="center">
 
 <img alt="Project Absence Logo" height="20%" width="20%" src="/assets/logo.png" />
-![Project Absence Logo](/assets/logo.png)
 
 # Project Absence
 
