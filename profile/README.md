@@ -9,7 +9,7 @@
 
 ### 👁️ Uncover the unseen
 
-Project Absence is a tool for analyzing your domains. Its features include finding open ports, discovering subdomains, discovering files and more will be coming with the time.
+Project Absence is a security auditing tool designed to assist system administrators and security researchers uncover potentially overlooked security exposures in their domains and servers. It can assist in identifying open ports, discovering subdomains, exposing unprotected files, and much more - new features will be added over time.
 
 <div>
     <img alt="Linux" width="48px" height="48px" src="/assets/linux.svg" />
