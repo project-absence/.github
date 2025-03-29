@@ -39,4 +39,4 @@ maintainer.
 
 ## License
 
-Your submissions are understood to be under the same [MIT License]([LICENSE.md](https://github.com/project-absence/.github/blob/main/LICENSE.md)) that covers the project.
+Your submissions are understood to be under the same [MIT License](https://github.com/project-absence/.github/blob/main/LICENSE.md) that covers the project.
